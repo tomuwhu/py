@@ -1,0 +1,1 @@
+print( [int(i) for i in "123456789"] )
